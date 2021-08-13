@@ -1,2 +1,0 @@
-# ERMS
-Employee record 
